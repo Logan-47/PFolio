@@ -4,7 +4,7 @@ const Landing = () => {
     return (
         <div className="landing">
             <div className="overlay">
-                Hello World
+                Deployed or wut?
             </div>
         </div>
     )
