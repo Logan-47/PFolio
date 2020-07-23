@@ -1,0 +1,15 @@
+.landing {
+    background: url(#{$image-path}/#{$landing-image}) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.overlay {
+    width:100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.6);
+    color:Red;
+    font-weight:bolder ;
+}
+
